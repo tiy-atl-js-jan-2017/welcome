@@ -42,7 +42,7 @@ First things first, one of the most important tools you will use is your worksta
 * [ ] Bookmark Our Class Repo - [See it Here](https://github.com/tiy-atl-js-jan-2017)
 * [ ] Try Git - [Do it Here](http://try.github.io)
 
-#### Most Important Thing
+#### What To Turn In
 
 Send your instructor an email that includes:
 
