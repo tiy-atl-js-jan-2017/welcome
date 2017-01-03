@@ -6,6 +6,8 @@
 
 In order to best prepare you for your time at The Iron Yard, we've put together the following for you to start reviewing. This shouldn't take you too long, but you should put all of your focus on it while you are working through it.
 
+This work _must_ be completed by the Friday before classes start.
+
 #### Your Workstation
 
 First things first, one of the most important tools you will use is your workstation. Making sure it is properly set up is extremely important. This is the reason we do the install party. Here are some things you'll need to make sure you have.
@@ -44,6 +46,8 @@ First things first, one of the most important tools you will use is your worksta
 
 #### What To Turn In
 
+**DUE DATE**: The Friday before class starts at 5pm!
+
 Send your instructor an email that includes:
 
 1. Your github username
@@ -51,6 +55,7 @@ Send your instructor an email that includes:
 3. How you learn best and how you're feeling about the upcoming class.
   * Where would you like to be in 3 months? 12?
   * If there are problems you anticipate, this would be a good place to brainstorm how we might work around them.
+  * This could be a list of bullet points or a paragraph or two. The important point is to think about your goals and expectations and communicate with your instructor about how we can make The Iron Yard a good experience for you.
 
 This sort of reflection can be very valuable and we'll be encouraging it throughout the course.
 
