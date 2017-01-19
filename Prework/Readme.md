@@ -6,7 +6,7 @@
 
 In order to best prepare you for your time at The Iron Yard, we've put together the following for you to start reviewing. This shouldn't take you too long, but you should put all of your focus on it while you are working through it.
 
-This work _must_ be completed by the Friday before classes start.
+This work _must_ be completed by the Friday before classes start. You may email me at `brit@theironyard.com`.
 
 #### Your Workstation
 
@@ -48,7 +48,7 @@ First things first, one of the most important tools you will use is your worksta
 
 **DUE DATE**: The Friday before class starts at 5pm!
 
-Send your instructor an email that includes:
+Send your instructor [an email](mailto:brit@theironyard.com) that includes:
 
 1. Your github username
 2. Any topics you particularly enjoyed or struggled with from the prework
