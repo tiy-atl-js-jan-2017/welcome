@@ -82,9 +82,9 @@ configuration from prezto to give us better tab completion, a more useful prompt
 
 Install [prezto](https://github.com/sorin-ionescu/prezto#installation) as follows:
 
-1. Start zsh with `zsh`
-2. Download prezto with `git clone --recursive https://github.com/sorin-ionescu/prezto.git "${ZDOTDIR:-$HOME}/.zprezto"`
-3. Setup the necessary config files with:
+* Start zsh with `zsh`
+* Download prezto with `git clone --recursive https://github.com/sorin-ionescu/prezto.git "${ZDOTDIR:-$HOME}/.zprezto"`
+* Setup the necessary config files with:
 
 ```
 setopt EXTENDED_GLOB
@@ -93,8 +93,8 @@ for rcfile in "${ZDOTDIR:-$HOME}"/.zprezto/runcoms/^README.md(.N); do
 done
 ```
 
-4. Make zsh your default shell with `chsh -s /bin/zsh`
-5. Finally, use your text editor to open the file `~/.zpreztorc` and change the module loading section on line 25 to look like this:
+* Make zsh your default shell with `chsh -s /bin/zsh`
+* Finally, use your text editor to open the file `~/.zpreztorc` and change the module loading section on line 25 to look like this:
 
 ```
 # Set the Prezto modules to load (browse modules).
